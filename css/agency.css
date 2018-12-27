@@ -626,3 +626,9 @@ ul.social-buttons {
   .btn-xl .badge {
     color: #7F9655;
     background-color: #7F9655; }
+
+  /* this is my code */
+  .col-4 {
+    margin: 0px, 100px, 0px, 100px;
+    width:100%;
+  }
